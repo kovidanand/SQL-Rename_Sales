@@ -4,18 +4,16 @@ Project Title: Retail Sales Analysis
 Level: Beginner
 Database: retail_sales
 
-This project demonstrates SQL skills for exploring, cleaning, and analyzing retail sales data through structured business questions and advanced analytics.
+This project demonstrates comprehensive SQL analysis of retail sales data, covering database setup, data cleaning, exploratory analysis, and 10 business intelligence queries.
 ​
 
-Objectives
-Database Setup: Create and populate retail sales table structure
+🎯 Project Objectives
+Database Setup: Create retail sales table structure
 
-Data Cleaning: Identify and handle null/missing values
+Data Quality: Clean null values and validate dataset
 
-Exploratory Analysis: Understand dataset dimensions and patterns
+Exploratory Analysis: Understand sales patterns and dimensions
 
-Business Intelligence: Answer 10 specific business questions with SQL queries
-​
+Business Insights: Solve 10 key business questions with advanced SQL
 
-Database Setup
-Create the retail_sales table to store transaction data:
+🗄️ Database Schema
